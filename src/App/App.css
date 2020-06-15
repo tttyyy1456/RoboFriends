@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Blanka Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Blanka Regular'), url('Blanka-Regular.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Blanka Regular';
+	color: #0099A7;
+	font-weight: 200;
+}
